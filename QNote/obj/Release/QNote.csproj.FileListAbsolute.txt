@@ -1,0 +1,34 @@
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\QNote\QNote\Bin\Release\Assets\ApplicationIcon.png
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\QNote\QNote\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\QNote\QNote\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\QNote\QNote\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\QNote\QNote\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\QNote\QNote\Bin\Release\Assets\Tiles\IconicTileSmall.png
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\QNote\QNote\Bin\Release\QNote.dll
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\QNote\QNote\Bin\Release\QNote.pdb
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\QNote\QNote\Bin\Release\AppManifest.xaml
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\QNote\QNote\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\QNote\QNote\Bin\Release\QNote_Release_AnyCPU.xap
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\QNote\QNote\obj\Release\App.g.cs
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\QNote\QNote\obj\Release\about.g.cs
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\QNote\QNote\obj\Release\MainPage.g.cs
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\QNote\QNote\obj\Release\QNote.g.resources
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\QNote\QNote\obj\Release\QNote.Resources.AppResources.resources
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\QNote\QNote\obj\Release\QNote.csproj.GenerateResource.Cache
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\QNote\QNote\obj\Release\QNote.dll
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\QNote\QNote\obj\Release\QNote.pdb
+C:\Users\Çelik\Documents\Visual Studio 2012\Projects\QNote\QNote\obj\Release\XapCacheFile.xml
+C:\Users\Çelik\Desktop\QNote App\QNote\Bin\Release\QNote.dll
+C:\Users\Çelik\Desktop\QNote App\QNote\Bin\Release\QNote.pdb
+C:\Users\Çelik\Desktop\QNote App\QNote\Bin\Release\AppManifest.xaml
+C:\Users\Çelik\Desktop\QNote App\QNote\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\Çelik\Desktop\QNote App\QNote\Bin\Release\QNote_Release_AnyCPU.xap
+C:\Users\Çelik\Desktop\QNote App\QNote\obj\Release\App.g.cs
+C:\Users\Çelik\Desktop\QNote App\QNote\obj\Release\about.g.cs
+C:\Users\Çelik\Desktop\QNote App\QNote\obj\Release\MainPage.g.cs
+C:\Users\Çelik\Desktop\QNote App\QNote\obj\Release\QNote.g.resources
+C:\Users\Çelik\Desktop\QNote App\QNote\obj\Release\QNote.Resources.AppResources.resources
+C:\Users\Çelik\Desktop\QNote App\QNote\obj\Release\QNote.csproj.GenerateResource.Cache
+C:\Users\Çelik\Desktop\QNote App\QNote\obj\Release\QNote.dll
+C:\Users\Çelik\Desktop\QNote App\QNote\obj\Release\QNote.pdb
+C:\Users\Çelik\Desktop\QNote App\QNote\obj\Release\XapCacheFile.xml
